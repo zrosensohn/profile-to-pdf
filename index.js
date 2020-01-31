@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const puppeteer = require('pdf-puppeteer');
 const options = { path: "./github-profile.pdf", printBackground:true,}
 const callback = function (pdf) {
-    console.log("Generating PDF");
+    console.log("Generating PDF Complete");
 }
 
 //Color Schemes
