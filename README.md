@@ -6,4 +6,4 @@ generate a pdf of git hub profile details
 supply git hub username
 choose a color from the list
 ## Gify
-![Directions](./gify.gif "Directions")
+![Directions](./giphy.gif "Directions")
